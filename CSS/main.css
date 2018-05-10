@@ -1,0 +1,41 @@
+body {
+  text-align: center;
+  font-family: 'Pangolin', cursive;
+}
+
+div {
+  border: 1px solid black;
+  text-align: center;
+  font-size: 40px;
+  height: 80px;
+  width: 80px;
+  display: table-cell;
+  padding: 0;
+}
+
+#bomb-it {
+  margin-left: 37%;
+}
+
+button {
+  background-color: #A325D8;
+  color: #fff;
+  font-size: 20px;
+  margin-top: 10px;
+  padding: 1%;
+  border: none;
+}
+
+img {
+  width: 150px;
+  margin: 2% 45%;
+}
+
+.number {
+  margin: 0;
+  color: white;
+}
+
+.numberShow{
+  color: black;
+}
